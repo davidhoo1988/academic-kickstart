@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Jingwei Hu
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of School of Cyber Security
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Shanghai Jiaotong University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: PhD in Electronic Engineering
+    institution: City University of Hong Kong, Hong Kong
+    year: 2018
+  - course: MEng in Computer Engineering
+    institution: Tianjin University, China
+    year: 2014
   - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Dalian Maritime University, China
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jingwei Hu received the BSc degree in electronic engineering from Dalian Maritime University, Dalian, in 2011, and the MEng degree in computer engineering from Tianjin University, Tianjin, in 2014, and the PhD degree in electronic engineering from City University of Hong Kong, Hong Kong, in 2018. He is currently a postdoctoral research fellow in the School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore. His research interest includes embedded cryptographic system, lightweight cryptographic hardware and side channel security.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
