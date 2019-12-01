@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of School of Cyber Security
+role: Postdocotral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Shanghai Jiaotong University
+- name: Nanyang Technological University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Embedded Cryptographic System
+- Lightweight Cryptographic Hardware
+- Side Channel Security
 
 education:
   courses:
